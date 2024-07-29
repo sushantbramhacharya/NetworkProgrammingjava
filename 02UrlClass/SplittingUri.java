@@ -1,4 +1,3 @@
-import java.net.MalformedURLException;
 import java.net.URI;
 
 public class SplittingUri{
